@@ -1,2 +1,2 @@
-# IML_FS24
+# IML FS24
 Introduction to Machine Learning FS24 at ETH Zürich. 
